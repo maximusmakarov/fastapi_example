@@ -2,3 +2,12 @@ idea
 .idea
 venv
 __pycache__
+/bin/
+/include/
+/lib/
+/share/
+/tests/.pytest_cache/
+/share/
+/lib/
+/include/
+/bin/
